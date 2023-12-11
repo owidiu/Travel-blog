@@ -1,5 +1,10 @@
 # TravelBlog
 
+Current status:
+
+<img width="1439" alt="Screenshot 2023-12-11 at 10 08 57" src="https://github.com/owidiu/Travel-blog/assets/88166707/c8752df0-5824-4757-93e8-939ab772af9d">
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
 
 ## Development server
